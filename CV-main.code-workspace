@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\CV-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hoja de vida"
+	}
+}
